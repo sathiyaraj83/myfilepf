@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T08:47:08.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="AphJ9CRnxEa1QdZ8-ERr" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T08:49:16.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="z2e6bhhIbqoAPnx-Qfuq" version="21.6.7" type="github">
   <diagram name="Page-1" id="2FcFRfJJw-KxKcMNalWO">
     <mxGraphModel dx="1434" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,16 +120,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wHPAMTm_sNhazSg7mFRJ-33" value="Service Design" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-550" width="170" height="50" as="geometry" />
+          <mxGeometry x="220" y="-570" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wHPAMTm_sNhazSg7mFRJ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wHPAMTm_sNhazSg7mFRJ-34" target="wHPAMTm_sNhazSg7mFRJ-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wHPAMTm_sNhazSg7mFRJ-34" value="Service Transition" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-550" width="170" height="50" as="geometry" />
+          <mxGeometry x="410" y="-570" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wHPAMTm_sNhazSg7mFRJ-35" value="Service Operations" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-550" width="170" height="50" as="geometry" />
+          <mxGeometry x="600" y="-570" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wHPAMTm_sNhazSg7mFRJ-40" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -139,15 +139,21 @@
         </mxCell>
         <mxCell id="wHPAMTm_sNhazSg7mFRJ-41" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="wHPAMTm_sNhazSg7mFRJ-35" target="wHPAMTm_sNhazSg7mFRJ-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="677.5" y="-460" as="sourcePoint" />
-            <mxPoint x="170" y="-435" as="targetPoint" />
+            <mxPoint x="767.5" y="-480" as="sourcePoint" />
+            <mxPoint x="260" y="-455" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="700" y="-525" />
-              <mxPoint x="700" y="-460" />
-              <mxPoint x="90" y="-460" />
-              <mxPoint x="90" y="-525" />
+              <mxPoint x="790" y="-545" />
+              <mxPoint x="790" y="-480" />
+              <mxPoint x="180" y="-480" />
+              <mxPoint x="180" y="-545" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wHPAMTm_sNhazSg7mFRJ-43" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-579" width="60" height="187.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wHPAMTm_sNhazSg7mFRJ-44" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="445" y="-460" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
